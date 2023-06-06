@@ -1,0 +1,16 @@
+name: "BMI 625 final"
+output_dir: "docs"
+navbar:
+  title: "Frances's Portfolio"
+  left:
+    - text: Home
+      href: index.html
+    - text: Labs
+      href: labs.html
+    - text: Final Visualization
+      href: bakeoff_title.html
+    - text: Bio
+      href: bio.html
+output:
+  html_document:
+    theme: lumen
