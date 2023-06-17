@@ -1,0 +1,9 @@
+---
+title: "The Great British Bake Off - Contestants' Progression"
+output: html_document
+---
+
+```{r, out.width="100%"}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::include_url("https://frances-hsu.shinyapps.io/bakeoff_winner/", height=500)
+```

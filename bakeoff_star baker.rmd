@@ -1,0 +1,9 @@
+---
+title: "Star Baker Titles by Series"
+output: html_document
+---
+
+```{r, out.width="80%"}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::include_url("https://frances-hsu.shinyapps.io/Lab7_bakeoff/", height=500)
+```
